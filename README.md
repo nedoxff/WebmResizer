@@ -44,6 +44,10 @@ Or:
 
 Please understand that you will not get any output when using the `run` command.
 
+### Contributing
+
+If you have any bugs, suggestions or any other things you want to tell, feel free to open an issue or [contact me](https://nedoxff.github.io/contact.html)!
+
 ### Showcase
 <p align="center">
 <img src="https://raw.githubusercontent.com/nedoxff/WebmResizer/master/Images/startup.png" alt=""><h5>Startup message</h5></img>
