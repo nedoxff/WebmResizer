@@ -6,6 +6,8 @@ WebmResizer is a tool that lets you create those funny Discord .webm videos that
 ### Warning
 **The code is not good. I can write better code. This is a simple bodge I made in 2 days for fun. It is usable, but please understand that there are bugs and potential crashes (which you can submit in the issues tab!)**
 
+**There have also been cases of VLC creating random black windows and Discord clients crashing. Please, use this carefully.**
+
 ### Features
 - Current resize modes:
 - - Random
@@ -45,5 +47,5 @@ Please understand that you will not get any output when using the `run` command.
 ### Showcase
 <p align="center">
 <img src="https://raw.githubusercontent.com/nedoxff/WebmResizer/master/Images/startup.png" alt=""><h5>Startup message</h5></img>
-<img src="https://raw.githubusercontent.com/nedoxff/WebmResizer/master/Images/startup.png" alt=""><h5>Main interface (interactive mode)</h5></img>
+<img src="https://raw.githubusercontent.com/nedoxff/WebmResizer/master/Images/looks.png" alt=""><h5>Main interface (interactive mode)</h5></img>
 </p>
